@@ -1,6 +1,6 @@
 # ansible-lab
 
-A *very simple* Ansible environment in Oracle Linux 7 virtual machine
+A *very simple* Ansible environment in an Oracle Linux 7 virtual machine
 
 ### Prerequisites:
 
