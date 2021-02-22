@@ -14,8 +14,8 @@ git clone https://github.com/mikebratt/ansible-lab.git
 
 cd ansible-lab
 
-Vagrant up
+vagrant up
 
-Vagrant ssh
+vagrant ssh
 
 ansible --version
