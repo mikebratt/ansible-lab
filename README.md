@@ -19,3 +19,6 @@ vagrant up
 vagrant ssh
 
 ansible --version
+
+
+![demo](demo/demo.gif)
